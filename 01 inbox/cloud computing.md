@@ -6,7 +6,9 @@ Created: 2022-07-08 20:06:06
 
 ---
 
-Cloud computing relies on virtualization significantly
+Cloud computing relies on virtualization significantly and you can see it being used in fields from web technologies to using something like google colab for running AI using shared GPUs
+
+The drawback however is that it can become costly, data is not always secure and if a vendor locks you in, then it becomes much more difficult to move
 
 ## Cloud types
 
