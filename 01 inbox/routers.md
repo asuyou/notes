@@ -20,7 +20,7 @@ Access control lists
 
 This is an ordered set of rules that a routers uses to decide whether to permit or deny traffic
 
-IP spoofing is usually used to try and bypass this
+IP [[spoofing]] is usually used to try and bypass this
 
 Change default routing tables
 

@@ -28,6 +28,14 @@ This is split into 3 groups
 2. Registered ports `1024 -> 49_151` that are assigned to proprietary protocols by IANA
 3. Dynamic/Private ports `49_152+` these can be used by any application
 
+We want to minimize the number of ports open to just the ones necessary
+
+We can shutdown the service opening the ports with
+Window : either GUI or `net stop <service>`
+Linux: `sudo stop <service>`
+
+We can block with the firewall
+
 ## Ports for SEC+
 
 These are the ports and protocols that need to be remembered

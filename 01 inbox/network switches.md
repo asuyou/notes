@@ -1,6 +1,6 @@
 # network switches
 ---
-Topics: [[networking]]
+Topics: [[networking]] [[spoofing]]
 Status: #inboxnote
 Created: 2022-07-07 19:36:34
 

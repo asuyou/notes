@@ -1,6 +1,6 @@
 # VLAN
 ---
-Topics: [[networking]]
+Topics: [[networking]] [[spoofing]]
 Status: #inboxnote
 Created: 2022-07-07 20:48:19
 

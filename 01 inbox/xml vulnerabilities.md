@@ -9,7 +9,7 @@ Created: 2022-06-25 13:40:53
 Used for everything from data exchange to authorization
 
 If XML is not encrypted or validated it is vulnerable to
-- spoofing
+- [[spoofing]]
 - request forgery
 - injection of code
 
