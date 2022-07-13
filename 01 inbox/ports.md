@@ -40,42 +40,42 @@ We can block with the firewall
 
 These are the ports and protocols that need to be remembered
 
-| Port       | Protocol                        | TCP / UDP |
-| ---------- | ------------------------------- | --------- |
-| 21         | FTP                             | TCP       |
-| 22         | SSH / SCP /SFTP                 | Both      |
-| 23         | Telnet                          | Both      |
-| 25         | SMTP                            | TCP       |
-| 53         | DNS                             | Both      |
-| 69         | TFTP (Trivial FTP)              | UDP       |
-| 80         | HTTP                            | TCP       |
-| 88         | Kerberos (windows network auth) | Both      |
-| 110        | POP3                            | TCP       |
-| 119        | [[NNTP]]                        | TCP       |
-| 135        | RPC (To locate DCOM)            | Both      |
-| 137 -> 129 | NetBIOS                         | Both      |
-| 143        | IMAP                            | TCP       |
-| 161        | [[SNMP]]                        | UDP       |
-| 162        | SNMPTRAP                        | Both      |
-| 389        | [[LDAP]]                        | Both      |
-| 443        | HTTPS                           | TCP       |
-| 445        | SMB                             | TCP       |
-| 465/587    | SMTP (with TLS)                 | TCP       |
-| 514        | Syslog                          | UDP       |
-| 636        | LDAP (TLS)                      | Both      |
-| 869        | [[iSCSI]]                       | TCP       |
-| 989/900    | FTPS                            | TCP       |
-| 993        | IMAP4 (TLS)                     | TCP       |
-| 995        | POP3 (TLS)                      | TCP       |
-| 1433       | MS-SQL-Server                   | TCP       |
-| 1645/1646  | RADIUS                          | UDP       |
-| 1701       | L2TP (VPN)                      | UDP       |
-| 1723       | PPTP                            | Both      |
-| 1812/1813  | RADIUS (defaults)               | UDP       |
-| 3225       | FCIP                            | Both      |
-| 3260       | iSCSI Target                    | TCP       |
-| 3389       | RDP                             | Both      |
-| 3868       | Diameter                        | TCP       |
-| 6514       | Syslog (TLS)                    | TCP       |
+| Port       | Protocol                            | TCP / UDP |
+| ---------- | ----------------------------------- | --------- |
+| 21         | FTP                                 | TCP       |
+| 22         | SSH / SCP /SFTP                     | Both      |
+| 23         | Telnet                              | Both      |
+| 25         | SMTP                                | TCP       |
+| 53         | DNS                                 | Both      |
+| 69         | TFTP (Trivial FTP)                  | UDP       |
+| 80         | HTTP                                | TCP       |
+| 88         | [[kerberos]] (windows network auth) | Both      |
+| 110        | POP3                                | TCP       |
+| 119        | [[NNTP]]                            | TCP       |
+| 135        | RPC (To locate DCOM)                | Both      |
+| 137 -> 129 | NetBIOS                             | Both      |
+| 143        | IMAP                                | TCP       |
+| 161        | [[SNMP]]                            | UDP       |
+| 162        | SNMPTRAP                            | Both      |
+| 389        | [[LDAP]]                            | Both      |
+| 443        | HTTPS                               | TCP       |
+| 445        | SMB                                 | TCP       |
+| 465/587    | SMTP (with TLS)                     | TCP       |
+| 514        | Syslog                              | UDP       |
+| 636        | LDAP (TLS)                          | Both      |
+| 869        | [[iSCSI]]                           | TCP       |
+| 989/900    | FTPS                                | TCP       |
+| 993        | IMAP4 (TLS)                         | TCP       |
+| 995        | POP3 (TLS)                          | TCP       |
+| 1433       | MS-SQL-Server                       | TCP       |
+| 1645/1646  | RADIUS                              | UDP       |
+| 1701       | L2TP (VPN)                          | UDP       |
+| 1723       | PPTP                                | Both      |
+| 1812/1813  | [[radius]] (defaults)                   | UDP       |
+| 3225       | FCIP                                | Both      |
+| 3260       | iSCSI Target                        | TCP       |
+| 3389       | [[RDP]]                                 | Both      |
+| 3868       | Diameter                            | TCP       |
+| 6514       | Syslog (TLS)                        | TCP       |
 
 # References
