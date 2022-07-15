@@ -61,7 +61,7 @@ These are the ports and protocols that need to be remembered
 | 443        | HTTPS                               | TCP       |
 | 445        | SMB                                 | TCP       |
 | 465/587    | SMTP (with TLS)                     | TCP       |
-| 514        | Syslog                              | UDP       |
+| 514        | [[syslog]]                          | UDP       |
 | 636        | LDAP (TLS)                          | Both      |
 | 869        | [[iSCSI]]                           | TCP       |
 | 989/900    | FTPS                                | TCP       |
@@ -71,10 +71,10 @@ These are the ports and protocols that need to be remembered
 | 1645/1646  | RADIUS                              | UDP       |
 | 1701       | L2TP (VPN)                          | UDP       |
 | 1723       | PPTP                                | Both      |
-| 1812/1813  | [[radius]] (defaults)                   | UDP       |
+| 1812/1813  | [[radius]] (defaults)               | UDP       |
 | 3225       | FCIP                                | Both      |
 | 3260       | iSCSI Target                        | TCP       |
-| 3389       | [[RDP]]                                 | Both      |
+| 3389       | [[RDP]]                             | Both      |
 | 3868       | Diameter                            | TCP       |
 | 6514       | Syslog (TLS)                        | TCP       |
 
