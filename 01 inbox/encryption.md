@@ -36,7 +36,7 @@ This uses a private and public key. Each key can only encrypt or decrypt the dat
 
 ## Stream cipher
 
-Uses a keystream generatorto encrypt data 1 bit at a time
+Uses a keystream generator to encrypt data 1 bit at a time
 
 This is generally done with an XOR and is symmetric
 
@@ -47,6 +47,6 @@ Common algorithms are
 
 ## Block cipher
 
-Breaks the input into many fidxed-length blocks and encrypts each blocks
+Breaks the input into many fixed-length blocks and encrypts each blocks
 
 # References
