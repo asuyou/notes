@@ -1,6 +1,6 @@
 # RSA
 ---
-Topics: [[en]]
+Topics: [[encryption]]
 Status: #inboxnote
 Created: 2022-07-17 18:14:54
 
