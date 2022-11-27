@@ -1,6 +1,6 @@
 # blackholing
 ---
-Topics: [[security]] [[web]] [[ddos]]
+Topics: #security #web #ddos
 Status: #inboxnote
 Created: 2022-07-10 23:30:43
 

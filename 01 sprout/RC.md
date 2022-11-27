@@ -1,10 +1,11 @@
 # RC
 ---
-Topics: [[encryption]]
-Status: #inboxnote
+Topics: #encryption
 Created: 2022-07-17 18:09:05
 
 ---
+
+[[encryption]]
 
 ## RC4
 

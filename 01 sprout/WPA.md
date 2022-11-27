@@ -1,7 +1,6 @@
 # WPA
 ---
-Topics: [[security]] [[wireless]]
-Status: #inboxnote
+Topics: #security #wireless
 Created: 2022-07-12 16:46:42
 
 ---

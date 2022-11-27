@@ -1,7 +1,6 @@
 # ports
 ---
-Topics: [[networking]]
-Status: #inboxnote
+Topics: #networking
 Created: 2022-07-09 20:18:50
 
 ---

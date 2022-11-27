@@ -1,6 +1,6 @@
 # port address translation
 ---
-Topics: [[networking]] [[security]]
+Topics: #networking
 Status: #inboxnote
 Created: 2022-07-07 20:52:23
 

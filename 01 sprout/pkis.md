@@ -1,7 +1,6 @@
 # pkis
 ---
-Topics: [[security]]
-Status: #inboxnote
+Topics: #security
 Created: 2022-07-18 18:47:21
 
 ---

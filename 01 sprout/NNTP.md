@@ -1,7 +1,6 @@
 # NNTP
 ---
-Topics: [[networking]]
-Status: #inboxnote
+Topics: #networking
 Created: 2022-07-09 22:05:00
 
 ---

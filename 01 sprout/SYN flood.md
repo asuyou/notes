@@ -1,7 +1,6 @@
 # SYN flood
 ---
-Topics: [[web]] [[security]] [[dos]]
-Status: #inboxnote
+Topics: #web #security #dos
 Created: 2022-07-10 23:21:50
 
 ---

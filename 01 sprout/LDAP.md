@@ -1,7 +1,6 @@
 # LDAP
 ---
-Topics: [[protocol]]
-Status: #inboxnote
+Topics: #protocol
 Created: 2022-07-13 19:10:34
 
 ---

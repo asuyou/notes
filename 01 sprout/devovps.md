@@ -1,7 +1,6 @@
 # devovps
 ---
-Topics: [[security]] [[development]] [[software]]
-Status: #inboxnote
+Topics: #security #development #software
 Created: 2022-06-17 17:33:41
 
 ---

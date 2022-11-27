@@ -1,6 +1,6 @@
 # WAP
 ---
-Topics: [[security]] [[wireless]]
+Topics: #security #wireless
 Status: #inboxnote
 Created: 2022-07-12 16:51:37
 

@@ -1,7 +1,6 @@
 # PDS system
 ---
-Topics: [[networking]] [[security]]
-Status: #inboxnote
+Topics: #security #networking
 Created: 2022-07-11 20:13:25
 
 ---

@@ -1,7 +1,6 @@
 # business impact analysis
 ---
-Topics: [[physical]]
-Status: #inboxnote
+Topics: #physical
 Created: 2022-08-09 21:39:41
 
 ---

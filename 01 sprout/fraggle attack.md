@@ -1,7 +1,6 @@
 # fraggle attack
 ---
-Topics: [[web]] [[security]] [[old]] [[dos]]
-Status: #inboxnote
+Topics: #web #security #old #ddos
 Created: 2022-07-10 23:20:25
 
 ---

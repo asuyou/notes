@@ -1,6 +1,6 @@
 # XMAS attack
 ---
-Topics: [[web]] [[security]] [[dos]] [[old]]
+Topics: #server #web #old #ddos
 Status: #inboxnote
 Created: 2022-07-10 23:23:37
 

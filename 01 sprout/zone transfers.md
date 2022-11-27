@@ -1,7 +1,6 @@
 # zone transfers
 ---
-Topics: [[networking]] [[DNS]] [[security]]
-Status: #inboxnote
+Topics: #networking #dns #security
 Created: 2022-11-02 19:15:36
 
 ---

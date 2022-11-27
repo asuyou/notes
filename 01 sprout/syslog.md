@@ -1,7 +1,6 @@
 # syslog
 ---
-Topics: [[protocol]]
-Status: #inboxnote
+Topics: #protocol
 Created: 2022-07-15 21:13:05
 
 ---

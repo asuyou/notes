@@ -1,7 +1,6 @@
 # VLAN
 ---
-Topics: [[networking]] [[spoofing]]
-Status: #inboxnote
+Topics: #networking
 Created: 2022-07-07 20:48:19
 
 ---
@@ -16,7 +15,7 @@ These are used to
 
 ## Switch spoofing
 
-An attacker can configure their device to pretend it is a switch and uses that to negotiate a trunk line and break out a VLAN
+An attacker can configure their device to pretend it is a switch (by [[spoofing]]) and uses that to negotiate a trunk line and break out a VLAN
 
 ## Double tagging
 

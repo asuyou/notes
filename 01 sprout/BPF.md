@@ -1,7 +1,6 @@
 # BPF
 ---
-Topics: [[packet capture]] [[reponse]]
-Status: #inboxnote
+Topics: #packet-capture #response
 Created: 2022-10-21 14:44:53
 
 ---

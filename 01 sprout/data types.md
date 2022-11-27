@@ -1,7 +1,6 @@
 # data types
 ---
-Topics: [[security]]
-Status: #inboxnote
+Topics: #security
 Created: 2022-08-15 10:39:09
 
 ---

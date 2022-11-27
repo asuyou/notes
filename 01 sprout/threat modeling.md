@@ -1,7 +1,6 @@
 # threat modeling
 ---
-Topics: [[development]] [[software]] [[security]]
-Status: #inboxnote
+Topics: #development #software #security
 Created: 2022-06-17 17:36:40
 
 ---

@@ -1,10 +1,11 @@
 # port mirroring
 ---
-Topics: [[networking]] [[ports]] [[analysis]]
-Status: #inboxnote
+Topics: #networking #ports #analysis
 Created: 2022-07-15 20:43:00
 
 ---
+
+[[ports]]
 
 This is when 1 or more ports are configured on a [[network switches]] to forward all their traffic to another port
 

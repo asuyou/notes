@@ -1,7 +1,6 @@
 # FaaS
 ---
-Topics: [[cloud]]
-Status: #inboxnote
+Topics: #cloud
 Created: 2022-07-09 08:31:16
 
 ---

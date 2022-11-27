@@ -1,7 +1,6 @@
 # SECaaS
 ---
-Topics: [[cloud]] [[security]]
-Status: #inboxnote
+Topics: #security #cloud
 Created: 2022-07-08 23:14:35
 
 ---

@@ -1,10 +1,11 @@
 # forensic procedures
 ---
-Topics: [[security]] [[incident response plan]]
-Status: #inboxnote
+Topics: #security
 Created: 2022-08-15 14:13:18
 
 ---
+
+This must be part of our [[incident response plan]] to mitigate and explain damate
 
 We use written procedures
 

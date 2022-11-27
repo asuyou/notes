@@ -1,14 +1,13 @@
 # PGP
 ---
-Topics: [[encryption]]
-Status: #inboxnote
+Topics: #encryption
 Created: 2022-07-17 18:18:55
 
 ---
 
 **Pretty Good Privacy**
 
-Encryption program mused for signing, encrypting and decryption. It uses [[IDEA]]
+[[encryption|Encryption]] program mused for signing, encrypting and decryption. It uses [[IDEA]]
 
 It is hybrid method
 
@@ -16,7 +15,6 @@ It is hybrid method
 
 `512 - 2048` bit for asymmetric
 
-
-The new version if [[GPG]]
+The new version is [[GPG]]
 
 # References

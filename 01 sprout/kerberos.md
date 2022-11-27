@@ -1,7 +1,6 @@
 # kerberos
 ---
-Topics: [[authentication]] [[authentication]]
-Status: #inboxnote
+Topics: #authentication
 Created: 2022-07-13 19:13:08
 
 ---

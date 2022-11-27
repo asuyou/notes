@@ -1,7 +1,6 @@
 # SQL injection basics
 ---
-Topics: [[sql]] [[web]] [[security]]
-Status: #inboxnote
+Topics: #sql #web #security
 Created: 2022-06-19 19:06:40
 
 ---

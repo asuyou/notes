@@ -1,7 +1,6 @@
 # osi model
 ---
-Topics: [[networking]]
-Status: #inboxnote
+Topics: #networking
 Created: 2022-06-25 14:40:08
 
 ---

@@ -1,7 +1,6 @@
 # Calibrated Questions
 ---
-Topics: [[Never Split the Difference]]
-Status: #inboxnote
+Topics:
 Created: 2022-09-19 11:06:57
 
 ---
@@ -13,3 +12,4 @@ As he recalls in his book, tiring someone out and making them do the thinking is
 It is very similar he recalls to just saying no to their advances and acting almost like an immovable stone.
 
 # References
+- [[Never Split the Difference]]

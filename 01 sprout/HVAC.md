@@ -1,7 +1,6 @@
 # HVAC
 ---
-Topics:
-Status: #inboxnote
+Topics: #physical
 Created: 2022-07-12 18:17:09
 
 ---

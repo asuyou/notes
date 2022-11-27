@@ -1,16 +1,15 @@
 # ECC
 ---
-Topics: [[encryption]]
-Status: #inboxnote
+Topics: #encryption
 Created: 2022-07-17 18:16:29
 
 ---
 
 **Elliptic Curve Cryptography**
 
-Based on algebraic structure of elliptical curves over finite fields.
+[[encryption|Encryption]] based on algebraic structure of elliptical curves over finite fields.
 
-It is significantly more efficient
+It is significantly more efficient than other methods and very fast while still having ample security
 
 ECC with `256` bit key is as secure as [[RSA]] with a `2048` bit key
 

@@ -1,7 +1,6 @@
 # data backups
 ---
-Topics: [[redundancy]] [[data]]
-Status: #inboxnote
+Topics: #redundancy #data
 Created: 2022-08-04 13:07:28
 
 ---

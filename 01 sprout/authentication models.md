@@ -1,7 +1,6 @@
 # authentication models
 ---
-Topics: [[security]] [[authentication]]
-Status: #inboxnote
+Topics: #security #authentication 
 Created: 2022-07-13 18:54:56
 
 ---

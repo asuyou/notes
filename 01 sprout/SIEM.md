@@ -1,7 +1,6 @@
 # SIEM
 ---
-Topics:
-Status: #inboxnote
+Topics: #security
 Created: 2022-07-15 21:05:08
 
 ---

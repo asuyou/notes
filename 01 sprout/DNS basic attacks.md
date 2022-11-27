@@ -1,7 +1,6 @@
 # DNS basic attacks
 ---
-Topics: [[DNS]] [[web]] [[security]]
-Status: #inboxnote
+Topics: #dns #web #security
 Created: 2022-07-10 23:46:19
 
 ---

@@ -1,7 +1,6 @@
 # hijacking
 ---
-Topics: [[security]]
-Status: #inboxnote
+Topics: #security
 Created: 2022-07-10 23:37:03
 
 ---

@@ -1,12 +1,12 @@
 # lattice based cryptography
 ---
-Topics: [[security]] [[cryptography]]
+Topics: #security #cryptography 
 Status: #inboxnote
 Created: 2022-11-07 18:09:08
 
 ---
 
-This is essential for the future of encryption due to the issues caused by quantum computers  and how most conventional algorithms can be cracked by [[shors algorithm]] and [[govers search]]
+This is essential for the future of [[encryption]] and [[cryptography]] due to the issues caused by quantum computers  and how most conventional algorithms can be cracked by [[shors algorithm]] and [[govers search]]
 
 A lattice is just an evenly space grid of points which can be in $n$ dimensions $\mathcal{L}$
 

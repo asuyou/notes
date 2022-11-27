@@ -1,7 +1,6 @@
 # stack smashing
 ---
-Topics: [[security]] [[binary exploitation]]
-Status: #inboxnote
+Topics: #security #binary-exploitation
 Created: 2022-06-17 18:15:45
 
 ---

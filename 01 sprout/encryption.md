@@ -1,7 +1,6 @@
 # encryption
 ---
-Topics:
-Status: #inboxnote
+Topics: #encryption
 Created: 2022-07-17 17:04:37
 
 ---

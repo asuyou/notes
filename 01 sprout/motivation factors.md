@@ -1,7 +1,6 @@
 # motivation factors
 ---
-Topics:  [[social engineering]]
-Status: #inboxnote
+Topics:  #social-engineering
 Created: 2022-08-09 22:53:16
 
 ---

@@ -1,7 +1,6 @@
 # VPN protocols
 ---
-Topics: [[protocol]] [[security]]
-Status: #inboxnote
+Topics: #protocol #security
 Created: 2022-07-19 23:46:53
 
 ---

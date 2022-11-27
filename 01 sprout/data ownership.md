@@ -1,7 +1,6 @@
 # data ownership
 ---
-Topics: [[security]]
-Status: #inboxnote
+Topics: #security
 Created: 2022-08-15 10:35:32
 
 ---

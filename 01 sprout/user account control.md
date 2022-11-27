@@ -1,7 +1,6 @@
 # user account control
 ---
-Topics: [[security]] [[windows]]
-Status: #inboxnote
+Topics: #security #windows
 Created: 2022-06-17 17:19:50
 
 ---

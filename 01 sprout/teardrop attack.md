@@ -1,7 +1,6 @@
 # teardrop attack
 ---
-Topics: [[web]] [[security]] [[old]]
-Status: #inboxnote
+Topics: #web #security #old
 Created: 2022-07-10 23:26:13
 
 ---

@@ -1,7 +1,6 @@
 # CSRF basics
 ---
-Topics: [[web]] [[security]]
-Status: #inboxnote
+Topics: #web #security
 Created: 2022-06-19 18:55:12
 
 ---

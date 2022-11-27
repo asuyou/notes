@@ -1,7 +1,6 @@
 # smurf attack
 ---
-Topics: [[old]] [[security]] [[web]] [[dos]]
-Status: #inboxnote
+Topics: #old #server #web #dos
 Created: 2022-07-10 23:19:13
 
 ---

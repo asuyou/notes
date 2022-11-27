@@ -1,7 +1,6 @@
 # pen test
 ---
-Topics: [[security]]
-Status: #inboxnote
+Topics: #security
 Created: 2022-07-15 16:58:02
 
 ---

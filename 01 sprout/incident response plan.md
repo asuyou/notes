@@ -1,7 +1,6 @@
 # incident response plan
 ---
-Topics: [[security]] [[procedure]]
-Status: #inboxnote
+Topics: #security #procedure
 Created: 2022-08-15 13:43:35
 
 ---

@@ -1,7 +1,6 @@
 # lambdas
 ---
-Topics: [[programming]] [[reverse engineering]]
-Status: #inboxnote
+Topics: #programming
 Created: 2022-06-14 09:53:51
 
 ---
@@ -9,8 +8,8 @@ Created: 2022-06-14 09:53:51
 These are also known as [[anonymous functions]]
 
 It's really useful to create lambda functions for common things to make them shorter
-e.g.
 
+```ad-note
 ```python
 p64 = lambda x: struct.pack("Q", x)
 pd = lambda x: b"A"*x

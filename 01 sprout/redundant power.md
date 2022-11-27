@@ -1,7 +1,6 @@
 # redundant power
 ---
-Topics: [[redundancy]]
-Status: #inboxnote
+Topics: #redundancy
 Created: 2022-07-20 21:12:50
 
 ---

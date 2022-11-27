@@ -1,10 +1,11 @@
 # WPA3
 ---
-Topics: [[security]] [[WPA]] [[wireless]]
-Status: #inboxnote
+Topics: #security #wireless
 Created: 2022-07-12 17:02:25
 
 ---
+
+Updated version of [[WPA2]]
 
 Introduced in 2018 and removed pre-shared key exchange
 

@@ -1,7 +1,6 @@
 # scada
 ---
-Topics: [[physical]]
-Status: #inboxnote
+Topics: #physical
 Created: 2022-07-13 15:39:49
 
 ---

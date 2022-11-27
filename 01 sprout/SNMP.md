@@ -1,7 +1,6 @@
 # SNMP
 ---
-Topics: [[networking]] [[protocol]]
-Status: #inboxnote
+Topics: #networking #protocol
 Created: 2022-07-15 20:45:26
 
 ---

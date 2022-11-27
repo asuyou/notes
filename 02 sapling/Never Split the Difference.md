@@ -1,7 +1,6 @@
 # Never Split the Difference
 ---
-Topics: [[book]] [[Never Split the Difference]]
-Status: #inboxnote
+Topics: #book
 Created: 2022-09-19 11:03:17
 
 ---

@@ -1,7 +1,6 @@
 # replay attack
 ---
-Topics: [[security]] [[web]]
-Status: #inboxnote
+Topics: #security #web
 Created: 2022-07-10 23:42:46
 
 ---

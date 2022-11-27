@@ -1,7 +1,6 @@
 # frameworks for sec+
 ---
-Topics: [[security]]
-Status: #inboxnote
+Topics: #security
 Created: 2022-08-15 12:01:19
 
 ---

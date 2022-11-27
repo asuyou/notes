@@ -1,7 +1,6 @@
 # arbitrary code execution
 ---
-Topics: [[security]] [[critical]]
-Status: #inboxnote
+Topics: #security #critical
 Created: 2022-06-17 18:03:49
 
 ---

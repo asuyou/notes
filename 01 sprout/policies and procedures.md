@@ -1,7 +1,6 @@
 # policies and procedures
 ---
-Topics: [[governance]]
-Status: #inboxnote
+Topics: #governance
 Created: 2022-08-15 10:25:11
 
 ---

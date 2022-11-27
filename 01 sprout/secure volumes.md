@@ -1,7 +1,6 @@
 # secure volumes
 ---
-Topics: [[security]]
-Status: #inboxnote
+Topics: #security
 Created: 2022-07-08 23:03:53
 
 ---

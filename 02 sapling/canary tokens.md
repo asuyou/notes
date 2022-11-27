@@ -1,7 +1,6 @@
 # canary tokens
 ---
-Topics: [[canary tokens]] [[binary exploitation]] [[security]]
-Status: #inboxnote
+Topics: #binary-exploitation #security
 Created: 2022-05-29 10:12:13
 
 ---

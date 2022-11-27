@@ -1,10 +1,11 @@
 # mng
 ---
-Topics: [[mobile network]]
-Status: #inboxnote
+Topics: #mobile-network
 Created: 2022-06-24 15:53:06
 
 ---
+
+Part of a [[mobile network]]
 
 ```ad-quote
    o  The Mobile Network Gateway (MNG): The MNG is the [[mn]]'s default

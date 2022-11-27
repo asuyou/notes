@@ -1,7 +1,6 @@
 # code testing
 ---
-Topics: [[testing]] [[software]]
-Status: #inboxnote
+Topics: #testing #software
 Created: 2022-06-17 17:55:17
 
 ---

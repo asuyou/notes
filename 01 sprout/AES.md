@@ -1,7 +1,6 @@
 # AES
 ---
-Topics: [[encryption]]
-Status: #inboxnote
+Topics: #encryption 
 Created: 2022-07-17 17:57:35
 
 ---

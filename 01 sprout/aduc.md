@@ -1,7 +1,6 @@
 # aduc
 ---
-Topics: [[security]]
-Status: #inboxnote
+Topics: #security 
 Created: 2022-07-14 17:23:25
 
 ---

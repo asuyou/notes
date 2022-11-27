@@ -1,7 +1,6 @@
 # OVAL
 ---
-Topics: [[vulnerability]]
-Status: #inboxnote
+Topics: #vulnerability
 Created: 2022-07-15 17:05:45
 
 ---

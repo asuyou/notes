@@ -1,7 +1,6 @@
 # directory traversal
 ---
-Topics: [[remote]] [[security]] [[server]]
-Status: #inboxnote
+Topics: #remote #security #server
 Created: 2022-06-17 18:01:49
 
 ---

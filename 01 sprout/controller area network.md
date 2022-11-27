@@ -1,7 +1,6 @@
 # controller area network
 ---
-Topics:
-Status: #inboxnote
+Topics: #physical #security
 Created: 2022-07-12 18:22:06
 
 ---

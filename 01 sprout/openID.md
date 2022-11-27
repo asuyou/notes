@@ -1,7 +1,6 @@
 # openID
 ---
-Topics: [[authentication]] [[security]]
-Status: #inboxnote
+Topics: #authentication #security
 Created: 2022-07-13 19:04:13
 
 ---

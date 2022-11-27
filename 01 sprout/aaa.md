@@ -1,7 +1,6 @@
 # aaa
 ---
-Topics: [[mobile network]]
-Status: #inboxnote
+Topics: #mobile-network 
 Created: 2022-06-24 15:54:59
 
 ---

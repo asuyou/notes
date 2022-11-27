@@ -1,7 +1,6 @@
 # ARP poisoning
 ---
-Topics: [[web]] [[security]] [[arp]]
-Status: #inboxnote
+Topics: #web #security #arp
 Created: 2022-07-10 23:53:27
 
 ---

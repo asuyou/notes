@@ -1,7 +1,6 @@
 # routers
 ---
-Topics: [[networking]]
-Status: #inboxnote
+Topics: #networking
 Created: 2022-07-07 19:53:08
 
 ---

@@ -1,10 +1,12 @@
 # tape rotation
 ---
-Topics: [[redundancy]] [[data backups]]
+Topics: #redundancy #backup
 Status: #inboxnote
 Created: 2022-08-04 13:10:50
 
 ---
+
+[[data backups]]
 
 ## 10 tape rotation
 

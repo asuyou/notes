@@ -1,12 +1,11 @@
 # buffer overflows
 ---
-Topics: [[security]] [[buffer overflows]] [[binary exploitation]]
-Status: #inboxnote
+Topics: #security #buffer-overflows #binary-exploitation
 Created: 2022-06-17 18:08:45
 
 ---
 
-This is when a process stores data outside the data range that it should be allowed.
+At the core, this is when a process stores data outside the data range that it should be allowed.
 
 This is used by attackers commonly to change data they shouldn't have access to like RIP pointers and return addresses
 

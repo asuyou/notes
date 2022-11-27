@@ -1,7 +1,6 @@
 # basic security testing
 ---
-Topics: [[security]] [[software]]
-Status: #inboxnote
+Topics: #security #software
 Created: 2022-06-17 17:47:38
 
 ---

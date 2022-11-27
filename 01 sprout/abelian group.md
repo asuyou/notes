@@ -1,7 +1,6 @@
 # abelian group
 ---
-Topics: [[math]]
-Status: #inboxnote
+Topics: #math
 Created: 2022-11-12 17:39:40
 
 ---

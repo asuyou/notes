@@ -1,7 +1,6 @@
 # xxe
 ---
-Topics: [[xml]] [[security]]
-Status: #inboxnote
+Topics: #xml #security
 Created: 2022-06-25 13:48:11
 
 ---

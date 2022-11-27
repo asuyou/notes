@@ -1,7 +1,6 @@
 # xml vulnerabilities
 ---
-Topics: [[security]] [[xml]]
-Status: #inboxnote
+Topics: #security #xml
 Created: 2022-06-25 13:40:53
 
 ---

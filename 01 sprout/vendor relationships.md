@@ -1,7 +1,6 @@
 # vendor relationships
 ---
-Topics: [[privacy]]
-Status: #inboxnote
+Topics: #privacy
 Created: 2022-08-15 11:44:19
 
 ---

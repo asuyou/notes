@@ -1,12 +1,11 @@
 # workflow orchestration
 ---
-Topics: [[SDLC]]
-Status: #inboxnote
+Topics: #sdlc
 Created: 2022-07-09 10:09:36
 
 ---
 
-This is the automation of multiple steps in a deployment process
+This is the automation of multiple steps in a deployment process and helps us speed up the [[SDLC]]
 
 We can automate setting up things like setting up VMs and user accounts
 

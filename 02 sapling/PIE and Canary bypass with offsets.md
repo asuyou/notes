@@ -1,7 +1,6 @@
 # PIE and Canary bypass with offsets
 ---
-Topics: [[canary tokens]] [[ret2win]] [[pie]] [[security]]
-Status: #inboxnote
+Topics: #ret2win #pie #security #binary-exploitation
 Created: 2022-06-13 20:27:26
 
 ---
@@ -22,3 +21,4 @@ In action what we can do is supply input and see the offset from that input wher
 - https://www.youtube.com/watch?v=FpKL2cAlJbM
 - https://en.wikipedia.org/wiki/Printf_format_string
 - https://www.quora.com/In-C-why-do-we-use-p-in-printf-statements-instead-of-lx-Arent-they-exactly-equivalent
+- [[canary tokens]]

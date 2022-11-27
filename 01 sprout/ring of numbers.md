@@ -1,7 +1,6 @@
 # ring of numbers
 ---
-Topics: [[math]]
-Status: #inboxnote
+Topics: #math
 Created: 2022-11-12 17:36:31
 
 ---

@@ -1,7 +1,6 @@
 # fire suppression
 ---
-Topics: [[physical]]
-Status: #inboxnote
+Topics: #physical
 Created: 2022-07-12 17:55:04
 
 ---

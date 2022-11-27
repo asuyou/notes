@@ -1,7 +1,6 @@
 # virtual private cloud
 ---
-Topics: [[cloud]]
-Status: #inboxnote
+Topics: #cloud
 Created: 2022-07-08 23:41:02
 
 ---

@@ -1,7 +1,6 @@
 # race conditions
 ---
-Topics: [[development]] [[security]]
-Status: #inboxnote
+Topics: #development #security
 Created: 2022-06-25 14:25:50
 
 ---

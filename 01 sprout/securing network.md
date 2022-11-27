@@ -1,7 +1,6 @@
 # securing network
 ---
-Topics: [[networking]] [[security]]
-Status: #inboxnote
+Topics: #networking #security
 Created: 2022-07-11 20:00:44
 
 ---

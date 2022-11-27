@@ -1,7 +1,6 @@
 # securing applications basics
 ---
-Topics: [[security]] [[macros]]
-Status: #inboxnote
+Topics: #security #macros
 Created: 2022-06-17 17:14:35
 
 ---

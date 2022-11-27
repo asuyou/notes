@@ -1,7 +1,6 @@
 # privacy technologies
 ---
-Topics: [[privacy]] [[security]]
-Status: #inboxnote
+Topics: #privacy #security
 Created: 2022-08-15 11:05:14
 
 ---

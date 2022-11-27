@@ -1,7 +1,6 @@
 # network switches
 ---
-Topics: [[networking]] [[spoofing]]
-Status: #inboxnote
+Topics: #networking #spoofing
 Created: 2022-07-07 19:36:34
 
 ---
@@ -18,7 +17,7 @@ If it is flooded it can fail-open and act like a hub (sending data to all device
 
 ## MAC spoofing
 
-When an attacker masks own MAC address
+When an attacker masks own MAC address by [[spoofing]] it
 
 ```ad-example
 A WAP might be setup to only allow certain MAC addresses. If a new device spoofs to have one of these addresses, it can then use the network

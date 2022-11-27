@@ -1,7 +1,6 @@
 # Faraday cage
 ---
-Topics: [[physical]]
-Status: #inboxnote
+Topics: #physical
 Created: 2022-07-12 18:20:01
 
 ---

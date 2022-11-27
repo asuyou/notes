@@ -1,12 +1,11 @@
 # ipv6 phone networks
 ---
-Topics: [[ipv6]] [[mobile network]]
-Status: #inboxnote
+Topics: #ipv6 #mobile-network 
 Created: 2022-06-24 15:22:52
 
 ---
 
-This is based on [[3gpp]] architecture
+This is based on [[3gpp]] architecture and allows to have a [[mobile network]]
 
 ```txt
                                 +-----+    +-----+

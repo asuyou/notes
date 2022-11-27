@@ -1,7 +1,6 @@
 # waterfall model
 ---
-Topics: [[development]] [[software]]
-Status: #inboxnote
+Topics: #development #software
 Created: 2022-06-17 17:24:34
 
 ---

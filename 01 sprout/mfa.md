@@ -1,7 +1,6 @@
 # mfa
 ---
-Topics: [[security]] [[web]]
-Status: #inboxnote
+Topics: #security #web
 Created: 2022-07-13 18:50:04
 
 ---

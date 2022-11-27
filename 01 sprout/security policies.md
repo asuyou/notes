@@ -1,7 +1,6 @@
 # security policies
 ---
-Topics: [[security]]
-Status: #inboxnote
+Topics: #security
 Created: 2022-08-15 11:12:11
 
 ---

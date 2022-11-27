@@ -1,7 +1,6 @@
 # agile development
 ---
-Topics: [[software]] [[development]]
-Status: #inboxnote
+Topics: #software #development
 Created: 2022-06-17 17:31:17
 
 ---

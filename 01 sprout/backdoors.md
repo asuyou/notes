@@ -1,7 +1,6 @@
 # backdoors
 ---
-Topics: [[security]]
-Status: #inboxnote
+Topics: #security 
 Created: 2022-06-17 18:00:26
 
 ---

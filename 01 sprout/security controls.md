@@ -1,7 +1,6 @@
 # security controls
 ---
-Topics: [[security]]
-Status: #inboxnote
+Topics: #security
 Created: 2022-07-14 20:04:57
 
 ---

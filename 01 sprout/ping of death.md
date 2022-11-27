@@ -1,7 +1,6 @@
 # ping of death
 ---
-Topics: [[old]] [[security]]
-Status: #inboxnote
+Topics: #security #old
 Created: 2022-07-10 23:25:14
 
 ---

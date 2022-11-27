@@ -1,7 +1,6 @@
 # SaaS
 ---
-Topics: [[cloud]] [[security]]
-Status: #inboxnote
+Topics: #cloud #security
 Created: 2022-07-08 23:11:19
 
 ---

@@ -1,7 +1,6 @@
 # data redundancy
 ---
-Topics: [[redundancy]]
-Status: #inboxnote
+Topics: #redundancy
 Created: 2022-07-20 21:58:12
 
 ---

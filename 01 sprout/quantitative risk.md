@@ -1,7 +1,6 @@
 # quantitative risk
 ---
-Topics: [[risk]]
-Status: #inboxnote
+Topics: #risk
 Created: 2022-07-14 19:47:52
 
 ---

@@ -1,7 +1,6 @@
 # iac
 ---
-Topics: [[infrastructure]]
-Status: #inboxnote
+Topics: #infrastructure
 Created: 2022-07-09 10:47:56
 
 ---

@@ -1,7 +1,6 @@
 # sso
 ---
-Topics: [[authentication]] [[security]] [[web]]
-Status: #inboxnote
+Topics: #security #authentication #web
 Created: 2022-07-13 18:58:30
 
 ---

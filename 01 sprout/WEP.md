@@ -1,7 +1,6 @@
 # WEP
 ---
-Topics: [[wireless]] [[security]]
-Status: #inboxnote
+Topics: #wireless #security
 Created: 2022-07-12 16:45:41
 
 ---

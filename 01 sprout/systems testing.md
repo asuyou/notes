@@ -1,7 +1,6 @@
 # systems testing
 ---
-Topics: [[software]] [[testing]] [[security]]
-Status: #inboxnote
+Topics: #security #software #testing
 Created: 2022-06-17 17:48:19
 
 ---

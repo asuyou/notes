@@ -1,7 +1,6 @@
 # TEMPORA
 ---
-Topics: [[privacy]]
-Status: #inboxnote
+Topics: #privacy
 Created: 2022-07-27 16:14:23
 
 ---

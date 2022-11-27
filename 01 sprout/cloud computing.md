@@ -1,7 +1,6 @@
 # cloud computing
 ---
-Topics: [[cloud]]
-Status: #inboxnote
+Topics: #cloud
 Created: 2022-07-08 20:06:06
 
 ---

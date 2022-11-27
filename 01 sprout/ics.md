@@ -1,7 +1,6 @@
 # ics
 ---
-Topics: [[physical]] [[security]]
-Status: #inboxnote
+Topics: #physical #security
 Created: 2022-07-13 15:34:29
 
 ---

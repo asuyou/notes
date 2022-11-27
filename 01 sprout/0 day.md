@@ -1,7 +1,6 @@
 # 0 day
 ---
-Topics: [[security]] [[critical]]
-Status: #inboxnote
+Topics: #security #critical
 Created: 2022-06-17 18:06:13
 
 ---

@@ -1,6 +1,6 @@
 # ping floods
 ---
-Topics: [[old]] [[security]] [[web]] [[dos]]
+Topics: #old #security #web #dos
 Status: #inboxnote
 Created: 2022-07-10 23:18:01
 

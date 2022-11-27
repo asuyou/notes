@@ -1,6 +1,6 @@
 # ASLR
 ---
-Topics: [[security]] [[binary exploitation]]
+Topics: #security #binary-exploitation
 Status: #inboxnote
 Created: 2022-06-17 18:25:22
 

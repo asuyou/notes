@@ -1,7 +1,6 @@
 # protocol analyzers
 ---
-Topics: [[protocol]] [[analysis]]
-Status: #inboxnote
+Topics: #protocol #analysis
 Created: 2022-07-15 20:40:57
 
 ---

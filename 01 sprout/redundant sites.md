@@ -1,7 +1,6 @@
 # redundant sites
 ---
-Topics: [[physical]] [[redundancy]]
-Status: #inboxnote
+Topics: #physical #redundancy
 Created: 2022-08-04 12:44:04
 
 ---

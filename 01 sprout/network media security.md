@@ -1,7 +1,6 @@
 # network media security
 ---
-Topics: [[networking]] [[security]] [[physical]]
-Status: #inboxnote
+Topics: #security #networking #physical
 Created: 2022-07-11 20:05:31
 
 ---

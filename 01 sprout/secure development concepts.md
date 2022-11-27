@@ -1,7 +1,6 @@
 # secure development concepts
 ---
-Topics: [[security]] [[software]] [[development]]
-Status: #inboxnote
+Topics: #security #software #development
 Created: 2022-06-17 17:38:27
 
 ---
